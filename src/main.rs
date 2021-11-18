@@ -1,4 +1,6 @@
 mod program_environment;
+mod utility;
+mod instructions;
 
 use std::env;
 
